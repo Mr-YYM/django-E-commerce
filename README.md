@@ -26,24 +26,24 @@
 
 00. 安装 node.js
 
-```shell
-# 参照官网
-```
+    ```shell
+    # 参照官网
+    ```
 
 01. 安装 vue
 
-```shell
-npm config set registry https://registry.npm.taobao.org
-# 全局安装 vue
-npm install -g @vue/cli
-```
+    ```shell
+    npm config set registry https://registry.npm.taobao.org
+    # 全局安装 vue
+    npm install -g @vue/cli
+    ```
 
 02. 创建项目
 
-```shell
-vue create djackets_vue
-cd djackets_vue
-# 在项目内的安装包
-vue install axios
-vue install bulma
-```
+    ```shell
+    vue create djackets_vue
+    cd djackets_vue
+    # 在项目内的安装包
+    vue install axios
+    vue install bulma
+    ```
